@@ -1,5 +1,5 @@
 # Global-Terrorism-Analysis
-The detail of the implementation can be found here in this [Jupyter Notebook](Global-Terrorism-Analysis/Global-Terrorism-Analysis.ipynb)
+The detail of the implementation can be found here in this [Jupyter Notebook](../Global-Terrorism-Analysis.ipynb)
 
 ## Overview 
 This project tries to find some interesting findings about global terrorism in a Kaggle dataset [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd), which records more than 170,000 terrorist attacks worldwide in 1970-2016.   

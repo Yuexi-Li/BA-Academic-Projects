@@ -16,4 +16,7 @@ business analytics projects and practices.
  - [Census-Count-MapReduce](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Bigdata-PySpark/Census-Count-MapReduce) (Pseudocode)
  - [WordCount](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Bigdata-PySpark/Word-Count)
  - [Bigrams](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Bigdata-PySpark/Bigrams)
- - [Using logistic regression to pam](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Bigdata-PySpark)  
+ - [Using logistic regression to pam](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Bigdata-PySpark) 
+ 
+ [**2.Python-Practices**](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Python-Practices)
+  - [Python-tutorial](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Practices/Python-Practices/python-practice.ipynb) 

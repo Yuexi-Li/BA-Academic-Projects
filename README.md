@@ -19,5 +19,6 @@ business analytics projects and practices.
  - [Using logistic regression to pam](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Bigdata-PySpark) 
  
  [**2.Python-Practices**](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Python-Practices)
-  - [Python-tutorial](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Practices/Python-Practices/python-practice.ipynb) 
-  - [Python-Coding-Questions](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Practices/Python-Practices/python-practice.ipynb)
+  - [Tutorial-practice](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Python-Practices/tutorial-practice) 
+    [code](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Practices/Python-Practices/tutorial-practice/python-practice.ipynb)(ipynb)
+  - [Coding-Challenges](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Practices/Python-Practices/coding-questions/coding-question.ipynb)

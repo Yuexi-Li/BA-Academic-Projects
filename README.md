@@ -20,3 +20,4 @@ business analytics projects and practices.
  
  [**2.Python-Practices**](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Python-Practices)
   - [Python-tutorial](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Practices/Python-Practices/python-practice.ipynb) 
+  - [Python-Coding-Questions](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Practices/Python-Practices/python-practice.ipynb)

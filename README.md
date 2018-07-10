@@ -20,5 +20,6 @@ business analytics projects and practices.
  
  [**2.Python-Practices**](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Python-Practices)
   - [Tutorial-practice](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Python-Practices/tutorial-practice) 
-    [code](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Practices/Python-Practices/tutorial-practice/python-practice.ipynb)(ipynb)
-  - [Coding-Challenges](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Practices/Python-Practices/coding-questions/coding-question.ipynb)
+    | [code (ipynb)](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Practices/Python-Practices/tutorial-practice/python-practice.ipynb)
+  - [Coding Challenges](https://github.com/YuexiSC/business-and-data-analytics/tree/master/Practices/Python-Practices/coding-challenges)
+  | [code (ipynb)](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Practices/Python-Practices/coding-questions/coding-question.ipynb)

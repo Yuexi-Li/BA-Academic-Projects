@@ -81,6 +81,12 @@ The highlighted findings with plots from jupyter notebook are as follows:
 ### 2. Engagement by Device Categories Analysis  
 *Check on various device types to see if the problem is localized to any particular product.*    
  
+ <div>
+    <a href="https://plot.ly/~yuexili/16/?share_key=oiX91bWaVpofEqXbsBWEcv" target="_blank" title="Plot 16" style="display: block; text-align: center;"><img src="https://plot.ly/~yuexili/16.png?share_key=oiX91bWaVpofEqXbsBWEcv" alt="Plot 16" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    
+
+ 
+ 
 >`all users` means the engagement from all  actual users not the devices they use, that means, if a user has multiple devices, they only count as one. So the total number of `all users` is smaller than all the sum of devices.  
 >  If we filter the above chart down to phones (double-click the dot next to “phone” in the legend), we can see that there’s a pretty steep drop in phone engagement rates.   
 > So it’s likely that there’s a problem with **the mobile app related to new signed up user retention**. 
@@ -89,6 +95,9 @@ The highlighted findings with plots from jupyter notebook are as follows:
 
 ### 3. Cohort Analysis: Engagement by Users' Signup Age Group    
 *Look at this is to cohort users based on when they signed up for the product to identify the problem whether comes from old users as opposed to new ones.*  
+<div>
+    <a href="https://plot.ly/~yuexili/18/?share_key=yzWoPcUTgWrChH7J8Gvq41" target="_blank" title="Plot 18" style="display: block; text-align: center;"><img src="https://plot.ly/~yuexili/18.png?share_key=yzWoPcUTgWrChH7J8Gvq41" alt="Plot 18" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+   
 
 > The `old users` are defined as users who signed up 10 weeks before Sep 1, which is June 22. And the `new users` are the ones who signed up after that. 10 weeks are a empirical value I chose because we want to separate users around the time user engagement decrease happens.
 
@@ -99,10 +108,15 @@ The highlighted findings with plots from jupyter notebook are as follows:
 
 ### 4. Signup Process Analysis    
 *To visualize each process and to see the conversion rate more easily and precise by using funnel chart.*  
+<div>
+    <a href="https://plot.ly/~yuexili/12/?share_key=Gnk9NWlbweIX3jkG6Dw1Wp" target="_blank" title="Plot 12" style="display: block; text-align: center;"><img src="https://plot.ly/~yuexili/12.png?share_key=Gnk9NWlbweIX3jkG6Dw1Wp" alt="Plot 12" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    
 
 > From `create user` to `enter email`, there are huge amount loss!  And it is the most critical one among all steps, once user entered their email, there is a very large possibility for them to fulfill the following sign-up flows.  
 > With this finding, I want to check wether this problem is on device types. So I generated the following segmented funnel chart.  
-
+<div>
+    <a href="https://plot.ly/~yuexili/14/?share_key=C5WYjnzR951v0rD6plqs1e" target="_blank" title="Plot 14" style="display: block; text-align: center;"><img src="https://plot.ly/~yuexili/14.png?share_key=C5WYjnzR951v0rD6plqs1e" alt="Plot 14" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+   
 
 > The dark green stands for the device computer,  red stands for the device phone and the dark blue is for tablet. 
 From step1(`create_user`) to step2(`enter_email`),nearly 40% of users did not go through the second step!  

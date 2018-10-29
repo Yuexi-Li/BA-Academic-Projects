@@ -5,7 +5,7 @@ Yammer is a social network for communicating with coworkers. Individuals share d
 **Project Purpose**:Figure out the root cause of the drop in user engagement.     
 
 
-The [jupyter notebook]() file consists of the following sections. The jupyter file is also available to view in [NBviewer]():   
+The [jupyter notebook](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Projects/Yammer-Engagement-Analysis/Yammer-Drop-in-Engagement-Analysis.ipynb) file consists of the following sections. The jupyter file is also available to view in [NBviewer](https://github.com/YuexiSC/business-and-data-analytics/blob/master/Projects/Yammer-Engagement-Analysis/Yammer-Drop-in-Engagement-Analysis.ipynb):   
   
 ## Table of Content in Jupyter notebook:
 &#8195; 1. Libraries and Dependencies
